@@ -1,0 +1,4 @@
+# This is a YAML configuration file for web scraping projects.
+# It contains the urls to scrape.
+
+books_to_scrape: 'https://books.toscrape.com/'
