@@ -54,7 +54,7 @@ Data will be saved in the `data/raw/` and `data/processed/` folders.
 
 A data analysis report is provided as a Jupyter Notebook.
 
-To run it:
+To run it (in the virtual environment):
 
 ```bash
 jupyter notebook
