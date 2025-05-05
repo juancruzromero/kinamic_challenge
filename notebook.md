@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="background-color: #303030; padding: 10px;">
   <img src="media/kinamic_logo.svg" width="100px">
 </h1>
 
